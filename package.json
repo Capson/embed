@@ -1,5 +1,5 @@
 {
-    "name": "flowise-embed",
+    "name": "botly",
     "version": "1.0.9",
     "description": "Javascript library to display flowise chatbot on your website",
     "type": "module",
